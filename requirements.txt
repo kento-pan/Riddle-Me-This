@@ -1,5 +1,5 @@
 cffi==1.13.2
-cryptography==2.8
+cryptography==3.2
 entrypoints==0.3
 flake8==3.7.9
 mccabe==0.6.1
